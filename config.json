@@ -1,0 +1,12 @@
+{
+    "library_path": "\"C:\\Users\\91638\\Downloads\\Steal-LikeanArtist.pdf\"",
+    "opened_documents": [
+        "C:/Users/91638/Downloads/Steal-LikeanArtist.pdf",
+        "C:/Users/91638/OneDrive/Documents/Books/How-to-Win-Friends-and-Influence-People.pdf"
+    ],
+    "ai_provider": "gemini",
+    "gemini_key": "",
+    "ollama_url": "http://localhost:11434",
+    "default_voice": "en-CA-ClaraNeural",
+    "default_speed": 1.0
+}
